@@ -6,16 +6,15 @@ To get started, you'll need Python 3.7 or later installed on your system. You ca
 
 Once you have Python, install the required libraries using pip:
 
-Bash```
+```Bash
 pip install moviepy.editor audiocraft
 ```
-Use code with caution.
 Note: Make sure you have FFmpeg installed for moviepy to function correctly. You can find FFmpeg download and installation instructions on the FFmpeg website: https://ffmpeg.org/download.html
 
 ## Usage
 Save your video file: Ensure your video file is in a format supported by moviepy (e.g., MP4, AVI).
 Run the script: Navigate to your project directory in the terminal and run the script using Python:
-Bash```
+```Bash
 python synesthesia.py
 ```
 
